@@ -80,7 +80,7 @@ const Home = () => {
         )}
       </div>
 
-      <footer>All Right Reserved 2024</footer>
+      <footer>From New Codes</footer>
     </div>
   );
 };

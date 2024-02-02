@@ -89,9 +89,10 @@ footer {
     font-weight: 900;
     color: #6062ee;
     position: absolute;
-    position: fixed;
     align-items: center;
+    background: #fff5;
     justify-content: center;
+    position: fixed; z-index: 1;
     backdrop-filter: blur(20px);
 }
 
