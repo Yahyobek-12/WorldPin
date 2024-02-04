@@ -80,7 +80,7 @@ const Home = () => {
         )}
       </div>
 
-      <footer>From New Codes</footer>
+      <footer>From NWT</footer>
     </div>
   );
 };
