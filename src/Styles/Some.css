@@ -104,3 +104,16 @@
     background: #fff;
     border-radius: 10px;
 }
+
+/* MEDIA SCREEN */
+
+@media only screen and (max-width: 400px) {
+    .some {
+        padding: 10px;
+    }
+    
+    .country-card {
+        width: 100%;
+        margin-left: 0;
+    }
+}
