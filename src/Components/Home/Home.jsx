@@ -6,8 +6,6 @@ import no__data from '../../Images/no.webp';
 import { IoEarthSharp } from 'react-icons/io5';
 import React, { useState, useEffect } from 'react';
 
-// ... (previous imports)
-
 const Home = () => {
   const [loading, setLoading] = useState(true);
   const [countries, setCountries] = useState([]);
